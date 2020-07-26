@@ -1,0 +1,29 @@
+#Food
+Raw Porkchop-0.35-item/porkchop.png
+Raw Beef-0.35-item/beef.png
+Raw Chicken-0.35-item/chicken.png
+Raw Cod-0.35-item/cod.png
+Raw Salmon-0.35-item/salmon.png
+Potato-0.35-item/potato.png
+Raw Mutton-0.35-item/mutton.png
+Raw Rabbit-0.35-item/rabbit.png
+Kelp-0.1-item/kelp.png
+
+#Ores
+Iron Ore-0.7-block/iron_ore.png
+Gold Ore-1.0-block/gold_ore.png
+Sand-0.1-block/sand.png
+Cobblestone-0.1-block/cobblestone.png
+Clay-0.3-item/clay_ball.png
+Netherrack-0.1-block/netherrack.png
+Clay Block-0.35-block/clay.png
+Stone Bricks-0.1-block/stone_bricks.png
+Dyed Terracotta-0.1-block/terracotta.png
+
+#Others
+Cactus-1-block/cactus_side.png
+Log-0.15-block/oak_log_top.png
+Wood-0.15-block/oak_log.png
+Chorus Fruit-0.1-item/chorus_fruit.png
+Wet Sponge-0.15-block/wet_sponge.png
+Sea Pickle-0.2-item/sea_pickle.png
